@@ -1,10 +1,10 @@
 My Drive
 .edit.controller {
-  background: url(https://srv-file2.gofile.io/download/UBskbI/base.png);
+  background: url(https://imblakeluna.github.io/regikcontroller/base.png);
 }
 
 .edit.disconnected {
-  background: url(https://srv-file2.gofile.io/download/KCPtML/disconnected.png);
+  background: url(https://imblakeluna.github.io/regikcontroller/disconnected.png);
 }
 
 .edit .quadrant {
@@ -28,7 +28,7 @@ My Drive
 }
 
 .edit .back, .edit .start {
-    background: url(https://srv-file2.gofile.io/download/jzI5nJ/start-select.png);
+    background: url(https://imblakeluna.github.io/regikcontroller/start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
@@ -49,7 +49,7 @@ My Drive
 
 .edit .button {
   position: absolute;
-  background: url(https://srv-file2.gofile.io/download/gpO9qD/abxy.png);
+  background: url(https://imblakeluna.github.io/regikcontroller/abxy.png);
 }
 
 .edit .button.pressed {
